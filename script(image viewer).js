@@ -35,5 +35,5 @@ imgs.onclick = function(){
 }
 /*……………………………..............*/
 image1.onclick = function (){
-window.alert(imgs.value);
+window.alert("welcome 🤗😁");
 }
