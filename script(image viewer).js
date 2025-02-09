@@ -3,7 +3,7 @@ let top_left_logo = document.getElementById("top-left-logo");
 let img_area = document.getElementById("img-area");
 let img_overflow = document.getElementById("img-overflow");
 let imgs = document.getElementById("img");
-
+let image1 = document.getElementById("img1");
 /*............................................*/ 
 img_area.style.display = "none";
 img_overflow.style.display = "none";
